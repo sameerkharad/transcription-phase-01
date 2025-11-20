@@ -1,6 +1,6 @@
-whisper==1.1.10
-torch==2.0.1
-torchaudio==2.0.1
+openai-whisper
+torch==2.0.1 --extra-index-url https://download.pytorch.org/whl/cpu
+torchaudio==2.0.1 --extra-index-url https://download.pytorch.org/whl/cpu
 ffmpeg-python
 numpy
 streamlit
