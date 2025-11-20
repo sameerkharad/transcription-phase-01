@@ -1,10 +1,5 @@
-# Whisper + CPU Torch + Streamlit Cloud friendly
-git+https://github.com/openai/whisper.git
-
-torch==2.0.1
-torchaudio==2.0.1
-torchvision==0.15.2
-
-ffmpeg-python
 streamlit
+openai-whisper
+torch
 numpy
+ffmpeg-python
